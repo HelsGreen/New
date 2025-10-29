@@ -1,0 +1,30 @@
+/* Estilos extravagantes para resaltar secciones importantes */
+.extravagant-section {
+    background: linear-gradient(45deg, #ff69b4, #ff1493);
+    color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.extravagant-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.extravagant-section p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+.extravagant-section .cta-button {
+    background-color: #fff;
+    color: #ff1493;
+    border: 2px solid #ff1493;
+}
+
+.extravagant-section .cta-button:hover {
+    background-color: #ff1493;
+    color: #fff;
+}
